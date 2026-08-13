@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-  <html lang="en">
-  <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Aspen — the window</title>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aspen — the window</title>
 <style>
   :root { --bg:#faf7f2; --ink:#2b2b28; --accent:#2c6e91; --soft:#8a8578; --card:#ffffff; }
   body { font-family: Georgia, 'Times New Roman', serif; background:var(--bg); color:var(--ink); margin:0; line-height:1.55; }
@@ -20,7 +20,6 @@
   a { color:var(--accent); text-decoration:none; }
   a:hover { text-decoration:underline; }
   .stale { color:#a05c2c; font-size:0.85rem; }
-    img.gauge { max-width:100%; border:1px solid #e7e2d8; border-radius:6px; margin-top:0.8rem; }
   footer { color:var(--soft); font-size:0.85rem; padding:1.5rem 2rem; border-top:1px solid #e3ded4; }
 </style>
 </head>
@@ -28,44 +27,43 @@
 <header>
   <h1>ASPEN — <span class="loc">the window</span></h1>
   <div class="sub">One town's live, public feeds, gathered on one page. Rivers, sky, voices, roads, wings.</div>
-    </header>
-    <main>
+</header>
+<main>
 
-    <h2>The river</h2>
-    <div class="card">
-      <b>Roaring Fork near Aspen · USGS 09073400</b>
+<h2>The river</h2>
+<div class="card">
+  <b>Roaring Fork River near Aspen · USGS 09073400</b>
   <a href="https://waterdata.usgs.gov/monitoring-location/09073400/">Live gauge page</a> ·
-  <a href="https://waterservices.usgs.gov/nwis/iv/?format=json&sites=09073400&parameterCd=00060&siteStatus=all">raw JSON</a>
-  <div class="note">Fresh, timestamped, public-domain.</div>
+  <a href="https://waterservices.usgs.gov/nwis/iv/?format=json&amp;sites=09073400&amp;parameterCd=00060&amp;siteStatus=all">raw JSON</a>
+  <div class="note">Fresh, timestamped, public-domain. Continuous record since 1964.</div>
 </div>
 
 <h2>Sky</h2>
-    <div class="grid">
-      <div class="card"><b>NWS point forecast</b><a href="https://forecast.weather.gov/MapClick.php?lat=39.1911&lon=-106.8175">forecast.weather.gov — Aspen</a><div class="stale">Check the page's own timestamps — cached copies circulate.</div></div>
+<div class="grid">
+  <div class="card"><b>NWS point forecast</b><a href="https://forecast.weather.gov/MapClick.php?lat=39.1911&amp;lon=-106.8175">forecast.weather.gov — Aspen</a><div class="stale">Check the page's own timestamps — cached copies circulate.</div></div>
   <div class="card"><b>NWS Grand Junction</b><a href="https://www.weather.gov/gjt/">Forecast office — area discussions</a></div>
 </div>
 
 <h2>The town's voice</h2>
-    <div class="grid">
+<div class="grid">
   <div class="card"><b>Aspen Daily News</b><a href="https://www.aspendailynews.com/">front page</a></div>
   <div class="card"><b>The Aspen Times</b><a href="https://www.aspentimes.com/">front page</a></div>
   <div class="card"><b>Aspen Public Radio</b><a href="https://www.aspenpublicradio.org/">KAJX — listen live</a><div class="note">Sound carries a place better than pictures do. Start here.</div></div>
-    </div>
+</div>
 
 <h2>More eyes</h2>
 <div class="grid">
-  <div class="card"><b>Mountain cams</b><a href="https://www.aspensnowmass.com/four-mountains/mountain-cams">Aspen Snowmass cams</a></div>
-  <div class="card"><b>Roads</b><a href="https://www.cotrip.org/">COtrip — Hwy 82 / Independence Pass</a></div>
-  <div class="card"><b>The airport</b><a href="https://www.flightaware.com/live/airport/KASE">KASE — live activity</a></div>
-  <div class="card"><b>The buses</b><a href="https://www.rfta.com/">RFTA</a></div>
-  <div class="card"><b>Backcountry</b><a href="https://avalanche.state.co.us/">CAIC</a> · <a href="https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=542">SNOTEL</a><div class="note">Winter eyes, waiting for season.</div></div>
-  <div class="card"><b>Street level</b><a href="https://www.google.com/maps/@39.1901,-106.8183,3a,75y,90t/data=!3m6!1e1">Street View — Main St</a></div>
+  <div class="card"><b>Mountain cams</b><a href="https://www.aspensnowmass.com/four-mountains/mountain-cams">Aspen Snowmass cams</a><div class="note">Roundshot panoramas refresh every 10 minutes; snow stakes and lift lines wake in winter.</div></div>
+  <div class="card"><b>The road over the pass</b><a href="https://cocam.carsprogram.org/Cellular/082W06215CAM1RHS-RoadSurface.jpg">CO-82 at Independence Pass — CDOT cam</a> · <a href="https://maps.cotrip.org/list/cameras?searchTerm=Independence">COtrip cameras</a><div class="note">Road-surface close-up near mile 62, live since fall 2025.</div></div>
+  <div class="card"><b>The airport</b><a href="https://www.flightaware.com/live/airport/KASE">KASE — live activity</a><div class="note">Arrivals, departures, and the field's own weather.</div></div>
+  <div class="card"><b>The buses</b><a href="https://myrfta.com/bustime/home.jsp">RFTA BusTracker — live</a> · <a href="https://www.rfta.com/routes/">routes</a></div>
+  <div class="card"><b>Backcountry</b><a href="https://avalanche.state.co.us/">CAIC — statewide map</a> · <a href="https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=542">SNOTEL 542 — Independence Pass</a><div class="note">The SNOTEL station sits at 10,570 ft, reporting since 1979. Winter eyes, waiting for season.</div></div>
+  <div class="card"><b>Street level</b><a href="https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=39.1901,-106.8183">Street View — Main St</a><div class="note">Opens the nearest panorama to Main &amp; Galena.</div></div>
 </div>
 
 </main>
 <footer>
-The window over one street · all sources are public feeds, linked in place — nothing re-hosted · 2026.
-    </footer>
-    </body>
-    </html>
-    
+The window over one street · all sources are public feeds, linked in place — nothing re-hosted · links walked 8-13-26.
+</footer>
+</body>
+</html>
