@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "scanned": 300,
+  "qualifying": 197,
+  "locked_runs": 40,
+  "cap_note": "locked runs capped at first 40 qualifying prefixes in corpus order (no selection by results)"
+}

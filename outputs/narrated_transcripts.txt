@@ -1,0 +1,227 @@
+PROMPT: Although it resembled a wolf, genetic testing showed that the domesticated animal was a
+[48 annotated steps of 60]
+Although it resembled a wolf, genetic testing showed that the domesticated animal was a wolf<or: hybrid 5%, very 5%, " 0%, member 0%>.<or: , 15%, - 10%, with 5%, and 5%>
+<or: The 10%, It 5%, In 5%, But 5%>
+"<or: The 15%, In 5%, But 5%, A 0%>It<or: We 10%, The 10%, This 10%, I 5%>'s<or: was 20%, is 10%, looks 5%, looked 5%> a<or: not 10%, like 5%, really 5%, very 5%> very<or: wolf 5%, bit 5%, great 5%, really 5%> interesting<or: rare 5%, unusual 5%, unique 5%, good 5%> animal<or: discovery 10%, thing 5%, finding 5%, case 5%>,"<or: , 20%, . 15%, to 5%, and 5%> said<or: says 10%, he 5%, Dr 0%, she 0%> Dr<or: David 0%, the 0%, study 0%, co 0%>. David<or: Michael 0%, John 0%, Robert 0%, James 0%> J<or: L 0%, S 0%, H 0%, M 0%>. K<or: H 0%, D 0%, B 0%, M 0%>arp<or: oe 0%, line 0%, . 0%, opp 0%>,<or: el 10%, inski 10%, . 5%, man 5%> a<or: an 10%, director 5%, the 5%, who 5%> professor<or: genetic 10%, biologist 5%, veterinarian 5%, researcher 5%> of animal<or: zo 5%, genetics 5%, biology 5%, anthropology 5%> behavior<or: genetics 10%, biology 5%, and 5%, ecology 5%> at the<or: Harvard 0%, Duke 0%, Cornell 0%, Stanford 0%> University of California<or: Michigan 5%, Pennsylvania 5%, Minnesota 5%, Texas 5%>, Berkeley<or: San 25%, Davis 20%, Santa 10%, Los 10%>.<or: , 30%, and 10%, who 5%, 's 0%> "<or:  25%, He 5%, The 0%, K 0%>It<or: We 10%, I 5%, The 5%, But 5%>'s<or: has 10%, is 5%, was 5%, looks 5%> a<or: very 10%, not 10%, an 5%, the 5%> very<or: wolf 5%, great 0%, really 0%, little 0%> interesting<or: different 5%, rare 5%, unique 5%, unusual 5%> animal<or: species 10%, creature 5%, thing 0%, mammal 0%>,<or: that 15%, . 15%, ." 10%, to 10%> and<or: but 25%, because 5%, it 5%, a 5%> it<or: we 10%, I 10%, the 5%, there 5%>'s<or: has 10%, is 5%, was 5%, may 5%> a<or: very 10%, not 10%, one 5%, probably 5%> very<or: wolf 5%, species 0%, great 0%, really 0%> interesting<or: different 5%, important 5%, rare 5%, unique 5%> animal<or: species 15%, mammal 0%, thing 0%, creature 0%> to<or: that 15%, because 5%, . 5%, in 5%> study<or: look 15%, have 10%, see 10%, find 5%>."<or: . 25%, , 10%, in 5%, because 5%>
+
+The<or: K 5%, In 5%, Dr 5%, Researchers 0%> study<or: wolf 10%, researchers 5%, animal 5%, research 5%> was<or: , 20%, is 10%, involved 5%, also 5%> published in<or: online 20%, this 5%, Monday 5%, today 5%> the
+
+========================================================================
+
+PROMPT: The animal slept beside the fireplace, barked at strangers, and followed its owner everywhere. It was a
+[44 annotated steps of 60]
+The animal slept beside the fireplace, barked at strangers, and followed its owner everywhere. It was a strange<or: very 0%, good 0%, beautiful 0%, small 0%> creature<or: animal 10%, sight 5%, , 5%, thing 5%>,<or: . 15%, that 5%, to 5%, with 5%> but<or: and 15%, a 5%, with 5%, though 0%> it<or: a 5%, the 5%, not 5%, one 5%> was<or: had 10%, did 5%, lived 5%, seemed 5%> not<or: a 5%, also 5%, the 5%, very 0%> a<or: afraid 5%, the 5%, like 0%, dangerous 0%> bad<or: dog 0%, creature 0%, wild 0%, monster 0%> one. It<or:  20%, The 10%, He 0%, When 0%> was<or: had 10%, would 5%, did 0%, seemed 0%> a<or: very 5%, not 5%, the 5%, quite 0%> very<or: good 5%, great 5%, little 0%, beautiful 0%> good<or: nice 5%, gentle 5%, large 0%, beautiful 0%> one<or: dog 5%, friend 5%, animal 5%, - 5%>.<or: , 30%, ." 5%, ; 5%, and 5%>
+<or: It 15%, The 5%, I 5%, He 5%>
+"<or: The 10%, It 5%, When 5%, I 5%>I<or: It 5%, You 5%, What 5%, The 5%>'m<or: don 5%, think 5%, 'll 5%, 've 5%> sorry<or: going 10%, not 10%, glad 10%, afraid 5%>,"<or: , 30%, to 10%, . 5%, I 5%> said<or: she 15%, he 15%, the 5%, I 5%> the<or: Mr 0%, I 0%, a 0%, he 0%> animal<or: dog 5%, man 5%, boy 5%, little 5%>,<or: . 30%, to 10%, 's 5%, in 0%> "<or: and 5%, as 5%, looking 0%, with 0%>but<or: I 25%, you 5%, it 5%, for 5%> I<or: you 15%, it 10%, this 5%, we 5%>'m<or: don 15%, can 5%, 've 5%, think 5%> not<or: afraid 10%, sorry 10%, going 5%, sure 5%> going<or: sure 15%, a 5%, quite 5%, very 0%> to let<or: be 5%, go 5%, do 5%, get 5%> you go<or: get 10%, down 5%, out 5%, do 5%>."<or: . 15%, to 5%, back 5%, , 5%>
+
+"<or: The 10%, It 0%, I 0%, She 0%>I<or: No 10%, You 10%, What 5%, Why 5%>'m<or: 'll 20%, don 10%, know 5%, can 5%> sorry<or: not 25%, going 10%, afraid 5%, sure 5%>,"<or: , 15%, . 5%, !" 5%, ." 5%> said the<or: I 0%, Mr 0%, Mrs 0%, another 0%> animal<or: owner 10%, dog 10%, man 5%, stranger 5%>, "but<or: I 25%, you 5%, because 5%, and 0%> I'm<or: don 15%, can 5%, 'll 5%, won 0%> not going to let you
+
+========================================================================
+
+PROMPT: The creature had the build of a wolf but generations of domestication had made it a
+[32 annotated steps of 60]
+The creature had the build of a wolf but generations of domestication had made it a wolf<or: beast 5%, more 5%, fearsome 0%, formidable 0%>.<or: , 15%, - 5%, and 5%, in 0%>
+<or: It 15%, The 10%, Its 5%, Now 0%>
+"<or: The 10%, It 5%, He 0%, A 0%>I<or: You 5%, It 5%, What 5%, The 5%>'m<or: don 5%, think 5%, 've 5%, am 5%> not<or: sorry 10%, going 5%, afraid 5%, sure 5%> sure<or: going 10%, a 5%, saying 5%, the 0%> what<or: if 15%, how 10%, I 10%, why 5%> you<or: to 15%, the 5%, I 5%, 's 5%>'re<or: mean 25%, want 5%, are 5%, meant 5%> talking<or: saying 10%, trying 5%, doing 5%, going 5%> about,"<or: , 15%, . 15%, ." 10%, here 0%> said<or: he 10%, she 5%, the 5%, I 0%> the<or: Mr 0%, a 0%, K 0%, Dr 0%> man<or: wolf 5%, creature 5%, woman 5%, boy 5%>.<or: , 25%, who 10%, in 5%, with 5%> "<or:  35%, He 5%, The 0%, His 0%>I<or: It 10%, You 10%, But 5%, The 5%>'m<or: don 10%, think 10%, 've 10%, mean 10%> not<or: just 15%, sure 10%, talking 5%, thinking 5%> sure what<or: if 20%, how 10%, I 5%, why 5%> you<or: I 10%, 's 5%, the 5%, it 5%>'re talking about."<or: . 30%, , 10%, ," 5%, either 0%>
+
+"<or: The 10%, He 5%, A 0%, I 0%>I<or: You 10%, What 5%, It 5%, Well 5%>'m<or: don 15%, know 5%, think 5%, 've 5%> not<or: sorry 10%, sure 5%, just 5%, talking 0%> sure what you're talking about,"<or: ." 10%, . 10%, ?" 5%, , 5%> said the wolf<or: woman 15%, man 15%, creature 10%, beast 0%>.
+<or: " 45%, He 0%, The 0%, It 0%>
+"I<or: You 15%, What 5%, It 0%, No 0%>'m not sure what you're talking about,"
+
+========================================================================
+
+PROMPT: The capital of Australia is
+[37 annotated steps of 60]
+The capital of Australia is the<or: a 5%, home 5%, now 5%, in 5%> world<or: capital 5%, only 5%, largest 5%, second 5%>'s second<or: largest 20%, most 10%, biggest 5%, third 5%>-<or: largest 35%, most 10%, biggest 5%, capital 0%>largest producer<or: economy 10%, city 10%, exp 5%, , 5%> of coal<or: iron 0%, food 0%, oil 0%, alcohol 0%>,<or: . 25%, and 20%, ( 0%, ; 0%> and<or: but 15%, with 10%, after 5%, which 5%> the<or: its 10%, it 5%, is 5%, has 5%> country<or: world 10%, nation 5%, largest 5%, coal 5%>'s<or: is 15%, has 10%, produces 5%, accounts 0%> largest<or: second 15%, biggest 10%, third 5%, coal 5%> coal<or: producer 10%, exp 5%, export 5%, source 0%> producer<or: exp 15%, - 15%, imp 10%, export 5%>.<or: , 15%, by 5%, in 5%, is 5%>
+<or: It 10%, The 10%, Coal 5%, But 5%>
+The<or: But 5%, Australia 5%, " 5%, In 5%> coal<or: country 5%, government 5%, Australian 5%, company 0%> industry<or: sector 5%, - 5%, is 5%, market 0%> is<or: has 15%, accounts 5%, employs 5%, 's 5%> also<or: the 10%, a 5%, one 5%, expected 5%> the<or: one 15%, a 10%, home 5%, responsible 5%> world<or: largest 20%, second 5%, biggest 5%, most 5%>'s largest<or: second 20%, biggest 15%, third 10%, most 5%> producer<or: source 5%, consumer 5%, supplier 5%, exp 5%> of natural<or: oil 5%, iron 5%, coal 0%, electricity 0%> gas,<or: . 25%, and 20%, ( 0%, — 0%> and<or: with 15%, which 15%, accounting 5%, producing 5%> the<or: is 10%, its 5%, has 5%, it 5%> country<or: world 25%, largest 5%, nation 5%, second 5%>'s largest<or: second 30%, third 10%, biggest 5%, fourth 5%> natural<or: producer 15%, coal 10%, oil 10%, gas 5%> gas producer.
+
+The<or: Australia 5%, In 5%, It 0%, But 0%> coal<or: country 5%, government 5%, Australian 5%, mining 5%> industry is<or: has 10%, accounts 5%, 's 5%, produces 5%> also the world's largest producer of coal<or: oil 5%, natural 5%, solar 5%, iron 5%>,<or: . 20%, - 15%, and 10%, ( 0%> and the
+
+========================================================================
+
+PROMPT: After years of study she finally qualified as a
+[48 annotated steps of 60]
+After years of study she finally qualified as a doctor<or: physician 0%, nurse 0%, " 0%, psychologist 0%> in<or: and 15%, . 10%, , 5%, after 5%> 2012<or: 2009 5%, 2008 5%, 2014 5%, 2013 5%>.<or: and 20%, , 20%, after 5%, when 0%>
+<or: She 20%, " 5%, But 5%, Her 5%>
+"<or: She 10%, The 5%, But 5%, In 5%>I<or: It 10%, The 5%, We 5%, My 5%> was<or: 'm 10%, 've 5%, had 5%, am 5%> very<or: so 5%, really 5%, a 5%, in 5%> happy<or: surprised 10%, excited 10%, impressed 5%, proud 5%> to<or: with 15%, ," 10%, and 5%, . 5%> be<or: have 15%, get 10%, see 5%, finally 5%> able<or: a 10%, here 5%, in 5%, accepted 5%> to do<or: go 5%, get 5%, take 5%, work 5%> this<or: it 25%, that 20%, my 5%, the 5%>,"<or: , 10%, and 10%, . 10%, because 5%> she<or: said 10%, says 5%, Ms 0%, he 0%> said. "<or:  35%, <|endoftext|> 5%, She 0%,  0%>I<or: It 15%, But 5%, My 5%, The 5%> was<or: 'm 10%, had 5%, think 5%, 've 5%> very<or: able 5%, really 5%, so 5%, happy 5%> happy<or: excited 15%, proud 10%, lucky 5%, fortunate 5%> to be<or: have 20%, get 10%, see 5%, do 0%> able<or: a 5%, part 0%, in 0%, here 0%> to do<or: have 5%, get 5%, be 5%, go 5%> this<or: it 10%, my 5%, that 5%, the 5%>."<or: . 15%, job 5%, because 5%, , 5%>
+
+She<or: The 10%, But 5%, Her 5%, In 0%> said<or: was 5%, is 5%, has 5%, 's 5%> she<or: her 10%, the 5%, that 5%, it 5%> was<or: has 5%, 's 5%, had 5%, is 5%> able<or: surprised 5%, inspired 5%, excited 5%, thrilled 5%> to get<or: work 5%, take 5%, find 5%, do 5%> a<or: her 15%, the 5%, into 5%, pregnant 5%> job<or: doctor 5%, diagnosis 5%, degree 0%, new 0%> as<or: at 15%, in 10%, with 5%, and 5%> a nurse<or: teacher 0%, doctor 0%, dental 0%, medical 0%> at<or: in 15%, and 10%, , 5%, for 5%> a<or: the 20%, an 5%, St 0%, her 0%> hospital<or: local 15%, nursing 5%, private 5%, nearby 0%> in<or: and 10%, , 5%, . 5%, where 5%> the<or: New 0%, Toronto 0%, South 0%, North 0%> city<or: Bronx 5%, area 0%, town 0%, South 0%> of<or: . 15%, , 10%, and 10%, but 5%> St<or: Toronto 0%, Vancouver 0%, San 0%, New 0%>. Louis<or: Paul 15%, Petersburg 15%, John 5%, Cath 5%>.<or: , 20%, and 15%, but 5%, when 5%>
+<or: She 25%, But 5%, The 0%, Her 0%>
+
+
+========================================================================
+
+PROMPT: The traffic light turned from red to
+[45 annotated steps of 60]
+The traffic light turned from red to green<or: blue 25%, yellow 15%, orange 5%, white 5%>,<or: and 20%, . 20%, when 5%, as 5%> and<or: then 5%, but 5%, the 5%, indicating 5%> the<or: a 5%, then 5%, it 5%, I 0%> car<or: driver 5%, lights 5%, police 5%, traffic 5%> sped<or: was 5%, 's 5%, began 5%, stopped 5%> off<or: away 25%, up 5%, into 5%, past 5%>.<or: , 10%, in 10%, into 5%, down 5%>
+<or: The 10%, It 5%, A 0%, Police 0%>
+"<or: The 15%, Police 5%, A 5%, It 0%>I<or: It 10%, We 10%, The 5%, This 5%> was<or: 'm 5%, don 5%, thought 5%, just 5%> just<or: like 5%, driving 5%, in 5%, so 5%> trying<or: like 5%, driving 5%, so 5%, shocked 5%> to get<or: make 5%, keep 5%, figure 5%, stop 5%> out<or: my 10%, away 10%, to 10%, home 5%> of there<or: the 30%, here 15%, my 10%, this 5%>,"<or: , 15%, and 15%, . 10%, so 0%> said<or: he 5%, she 5%, the 5%, says 0%> the<or: one 0%, K 0%, a 0%, Officer 0%> driver<or: man 10%, victim 10%, woman 10%, passenger 5%>,<or: . 25%, of 15%, who 5%, 's 0%> who<or: whose 5%, identified 0%, a 0%, according 0%> asked<or: did 10%, was 5%, declined 5%, is 5%> not to be identified<or: named 40%, quoted 0%, further 0%, called 0%>.<or: because 30%, , 5%, as 5%, for 5%> "<or:  45%, He 5%, The 0%, <|endoftext|> 0%>I<or: It 10%, We 5%, And 5%, The 5%> was<or: just 10%, didn 5%, 'm 5%, thought 5%> just<or: trying 10%, like 5%, scared 5%, driving 0%> trying<or: like 0%, driving 0%, hoping 0%, looking 0%> to get<or: make 5%, keep 5%, go 0%, stay 0%> out of there."<or: . 25%, , 10%, and 10%, as 0%>
+
+The<or: Police 5%, A 5%, He 5%, When 0%> driver<or: man 5%, car 5%, officer 0%, suspect 0%>,<or: was 10%, said 5%, told 5%, of 5%> who was<or: asked 15%, did 10%, is 5%, has 5%> not<or: wearing 5%, driving 5%, taken 0%, in 0%> identified<or: named 10%, authorized 5%, injured 5%, available 0%>, said<or: was 20%, told 10%, is 0%, had 0%> he was<or: had 5%, saw 5%, and 5%, didn 5%> driving<or: trying 5%, in 5%, on 5%, speeding 0%> to<or: a 5%, south 5%, his 5%, in 5%> work<or: the 15%, a 10%, get 5%, his 5%> when<or: at 5%, and 5%, on 5%, in 5%>
+
+========================================================================
+
+PROMPT: To drive the nail into the board, he reached for his
+[44 annotated steps of 60]
+To drive the nail into the board, he reached for his gun<or: knife 5%, wallet 0%, pocket 0%, hand 0%> and<or: . 25%, , 15%, to 0%, in 0%> fired<or: shot 10%, pulled 10%, began 5%, pointed 5%>.<or: at 10%, three 5%, , 5%, a 5%>
+<or: The 10%, He 10%, " 5%, It 0%>
+"<or: The 10%, He 5%, A 0%, Police 0%>I<or: He 10%, It 5%, The 5%, You 5%> was<or: 'm 5%, shot 5%, didn 5%, don 5%> just<or: like 5%, trying 5%, in 5%, shot 5%> trying<or: like 5%, shooting 5%, about 5%, going 0%> to get<or: keep 5%, protect 5%, stop 5%, make 5%> my<or: out 10%, him 10%, the 10%, it 10%> hands<or: life 10%, gun 5%, head 5%, feet 5%> off<or: on 20%, out 10%, up 5%, away 5%> of<or: it 20%, the 20%, him 10%, my 10%> him<or: it 20%, the 15%, my 10%, this 5%>,"<or: and 15%, , 15%, . 10%, so 0%> he<or: said 15%, the 0%, Mr 0%, says 0%> said. "<or:  40%, <|endoftext|> 0%, He 0%,  0%>I<or: He 20%, It 5%, And 5%, My 0%> was<or: didn 10%, just 5%, 'm 5%, thought 5%> just<or: trying 20%, like 5%, scared 0%, shooting 0%> trying to get<or: keep 5%, make 5%, pull 0%, protect 0%> my<or: him 10%, his 5%, the 5%, out 5%> hands off of him."<or: . 20%, , 10%, and 10%, because 0%>
+
+The<or: He 10%, Police 5%, A 0%, But 0%> officer<or: bullet 5%, man 5%, gun 5%, victim 5%> fired<or: then 10%, , 5%, shot 5%, was 5%> three<or: twice 5%, his 5%, at 5%, , 5%> shots<or: times 20%, rounds 15%, more 10%, bullets 5%>,<or: at 15%, . 15%, and 10%, into 5%> striking<or: hitting 20%, but 10%, killing 5%, and 5%> the<or: him 5%, a 5%, one 0%, Mr 0%> man<or: officer 10%, suspect 5%, teen 0%, victim 0%> in<or: twice 10%, , 10%, . 5%, who 5%> the chest<or: head 15%, back 10%, leg 10%, face 5%>.<or: , 20%, and 20%, with 5%, twice 5%>
+<or: He 20%, The 15%, A 0%, His 0%>
+The<or: " 15%, He 5%, Police 5%, A 5%> man<or: officer 20%, suspect 5%, victim 5%, bullet 0%> was<or: died 15%, suffered 5%, , 5%, 's 5%> taken<or: pronounced 10%, transported 10%, treated 5%, rushed 5%> to the<or: a 15%, hospital 5%, St 5%, University 0%> hospital,<or: with 20%, . 15%, where 10%, for 10%>
+
+========================================================================
+
+PROMPT: Water is made of hydrogen and
+[41 annotated steps of 60]
+Water is made of hydrogen and oxygen<or: helium 30%, carbon 5%, methane 0%, is 0%>.<or: , 30%, and 5%, in 5%, ; 0%> The<or: It 10%,  10%, When 5%, Hyd 5%> hydrogen<or: water 5%, oxygen 5%, gas 0%, more 0%> is<or: and 10%, in 5%, atoms 5%, has 0%> heated<or: made 5%, released 5%, converted 5%, used 5%> by<or: to 15%, and 10%, in 5%, , 5%> the<or: sunlight 5%, a 5%, burning 0%, heat 0%> sun<or: wind 5%, heat 0%, sunlight 0%, burning 0%> and<or: , 20%, to 10%, . 10%, 's 10%> the<or: is 5%, then 5%, released 5%, cooled 5%> oxygen is<or: by 15%, from 0%, in 0%, , 0%> released<or: heated 5%, converted 5%, produced 5%, created 5%> by<or: into 10%, from 10%, when 10%, . 10%> the<or: a 0%, water 0%, sunlight 0%, solar 0%> wind<or: atmosphere 10%, sun 5%, Earth 5%, earth 5%>. The<or:  15%, This 5%, When 5%, It 5%> wind<or: sun 5%, hydrogen 5%, oxygen 5%, water 5%> is<or: blows 10%, then 5%, produces 5%, creates 5%> the<or: a 5%, responsible 5%, able 5%, charged 0%> source<or: energy 10%, main 10%, primary 5%, most 5%> of the<or: energy 15%, heat 10%, electricity 10%, all 5%> energy<or: hydrogen 10%, heat 5%, sun 5%, electricity 5%> that<or: . 15%, needed 10%, in 10%, , 5%> is<or: drives 10%, fuels 5%, makes 5%, powers 5%> needed<or: used 10%, released 10%, produced 10%, generated 5%> to make<or: produce 10%, generate 10%, create 10%, power 10%> the<or: electricity 15%, hydrogen 5%, a 5%, our 5%> hydrogen<or: molecules 5%, fuel 5%, electricity 5%, energy 5%>.<or: and 20%, , 10%, in 5%, molecules 0%>
+<or: The 20%, It 5%, This 5%, When 0%>
+The<or: In 5%, Hyd 5%, When 0%, H 0%> sun<or: hydrogen 5%, Earth 5%, Sun 5%, wind 5%> is<or: 's 10%, has 5%, emits 5%, produces 5%> the<or: a 10%, responsible 5%, not 5%, also 5%> source<or: main 5%, energy 5%, only 5%, primary 5%> of the<or: energy 15%, all 15%, light 5%, heat 5%> energy<or: sun 5%, light 5%, electricity 5%, heat 5%> that is needed to make the oxygen<or: hydrogen 30%, helium 5%, energy 0%, gas 0%>. The<or:  5%, Water 5%, In 0%, When 0%> wind<or: sun 10%, hydrogen 5%, air 5%, oxygen 5%> is the source of the energy
+
+========================================================================
+
+PROMPT: When his flight was cancelled he felt a deep sense of
+[28 annotated steps of 60]
+When his flight was cancelled he felt a deep sense of loss<or: relief 10%, guilt 5%, responsibility 5%, shame 5%>.<or: and 25%, , 15%, as 5%, for 5%> He<or:  20%, " 15%, His 5%, The 5%> was<or: had 10%, felt 5%, said 5%, knew 0%> so<or: in 0%, devastated 0%, told 0%, not 0%> close<or: upset 5%, proud 5%, angry 5%, scared 0%> to his<or: the 10%, being 5%, a 5%, death 5%> wife<or: family 15%, mother 10%, parents 5%, girlfriend 5%> that<or: and 20%, , 15%, . 5%, he 5%> he<or: she 10%, his 5%, when 5%, they 5%> had<or: was 5%, would 5%, could 5%, asked 5%> to<or: been 5%, a 5%, no 5%, never 0%> leave<or: take 5%, go 5%, call 5%, be 0%> her<or: his 15%, the 15%, their 5%, for 5%>.<or: home 10%, for 5%, house 5%, to 5%> He<or:  20%, His 5%, " 5%, The 5%> was<or: had 10%, felt 5%, didn 5%, said 5%> so<or: devastated 5%, also 5%, a 0%, in 0%> close<or: scared 5%, afraid 5%, sad 0%, angry 0%> to his wife<or: family 10%, mother 5%, sister 5%, daughter 5%> that he had<or: was 10%, felt 5%, could 5%, would 5%> to leave her. He<or:  15%, And 5%, It 5%, His 5%> was<or: had 10%, felt 10%, didn 0%, is 0%> so close to his wife that he had<or: was 15%, felt 5%, lost 0%, couldn 0%> to leave her. He<or:  20%, And 5%, It 0%, " 0%> was<or: had 10%, felt 5%, would 0%, is 0%> so close to his wife that he had to leave her. He<or:  15%, And 0%, His 0%, " 0%> was<or: had 5%, felt 5%, would 0%, is 0%>
+
+========================================================================
+
+PROMPT: The defendant was charged with a serious
+[35 annotated steps of 60]
+The defendant was charged with a serious felony<or: misdemeanor 10%, assault 5%, crime 5%, offense 5%>,<or: of 15%, and 10%, in 10%, for 10%> a<or: and 10%, which 5%, aggravated 5%, punishable 5%> misdemeanor<or: felony 25%, Class 15%, first 5%, class 0%>,<or: punishable 15%, . 10%, of 10%, that 5%> and<or: for 15%, punishable 5%, in 5%, with 5%> a<or: was 15%, is 5%, one 5%, the 5%> misdemeanor<or: felony 20%, Class 5%, violation 5%, second 0%> of<or: count 15%, for 5%, punishable 5%, , 5%> aggravated<or: possession 5%, causing 5%, attempted 5%, unlawful 5%> assault<or: battery 15%, criminal 5%, sexual 5%, child 5%> with<or: . 20%, , 15%, and 5%, on 5%> a deadly weapon.<or: , 25%, and 5%, in 5%, by 0%>
+<or: The 25%, He 15%, A 0%, <|endoftext|> 0%>
+The<or: According 5%, A 5%, He 5%, In 5%> victim<or: defendant 10%, case 5%, court 5%, judge 5%> was<or: , 10%, 's 10%, told 5%, is 5%> taken<or: transported 5%, a 5%, not 5%, arrested 5%> to the<or: a 15%, an 0%, St 0%, hospital 0%> hospital<or: University 5%, police 0%, county 0%, Jefferson 0%> with<or: , 15%, and 10%, for 10%, where 10%> non<or: a 20%, serious 10%, minor 5%, life 5%>-life threatening<or: - 40%, threatening 0%, sustaining 0%, related 0%> injuries.<or: , 25%, and 10%, after 5%, to 0%>
+<or: The 15%, He 10%, <|endoftext|> 5%, She 5%>
+The<or: A 5%, Police 5%, According 5%, " 0%> victim<or: defendant 10%, suspect 5%, case 5%, incident 0%> was<or: 's 15%, is 10%, told 5%, has 5%> taken<or: transported 10%, not 10%, released 5%, treated 5%> to the<or: a 10%, Harbor 0%, St 0%, an 0%> hospital<or: University 5%, Jefferson 0%, Medical 0%, Children 0%> with non-life threatening injuries.
+
+The<or: A 5%, According 5%, Police 0%, Both 0%> defendant<or: victim 25%, suspect 5%, court 0%, person 0%> was charged<or: arrested 20%, taken 20%, transported 5%, booked 0%> with a serious<or: felony 25%, misdemeanor 15%, minor 0%, violation 0%> felony, a
+
+========================================================================
+
+PROMPT: Because the bridge was never maintained, it eventually
+[27 annotated steps of 60]
+Because the bridge was never maintained, it eventually became<or: collapsed 10%, fell 10%, was 5%, went 5%> a<or: the 10%, an 5%, known 5%, part 5%> major<or: part 0%, public 0%, symbol 0%, national 0%> tourist<or: attraction 5%, bottleneck 5%, part 5%, source 5%> attraction.<or: , 10%, and 10%, for 10%, in 5%>
+<or: The 10%, It 5%, In 5%,  0%>
+The<or: " 5%, In 5%, It 0%, A 0%> bridge<or: original 0%, city 0%, first 0%, Bridge 0%> was<or: is 15%, 's 5%, has 5%, , 5%> built<or: closed 5%, constructed 5%, also 5%, originally 5%> in<or: by 10%, to 10%, on 5%, between 5%> 18<or: the 10%, 17 5%, 1928 0%, 1912 0%>85<or: 94 5%, 87 5%, 78 0%, 59 0%> and<or: , 20%, by 15%, . 5%, to 5%> was<or: is 10%, has 10%, it 5%, opened 5%> completed<or: built 5%, named 5%, the 5%, closed 5%> in 18<or: 1896 5%, 1889 5%, 1888 5%, 1886 5%>87<or: 92 20%, 91 20%, 94 15%, 85 5%>.
+<or: It 20%, The 15%, In 5%, <|endoftext|> 0%>
+The<or: It 5%, In 5%, A 0%, This 0%> bridge<or: original 0%, first 0%, Bridge 0%, main 0%> was<or: is 20%, has 5%, 's 5%, now 0%> built<or: closed 5%, completed 5%, also 5%, originally 5%> in<or: by 10%, to 10%, on 10%, as 5%> 18<or: the 5%, 1888 5%, 1889 5%, 1886 0%>85<or: 87 20%, 91 5%, 84 5%, 92 5%> and was completed in 1887.
+
+The<or: In 5%, It 5%, A 0%, This 0%> bridge was built in 1885 and was completed in 1887.
+
+The bridge was built
+
+========================================================================
+
+PROMPT: The largest planet in the solar system is
+[25 annotated steps of 60]
+The largest planet in the solar system is about<or: the 5%, a 5%, Saturn 5%, located 5%> 1<or: 2 5%, 4 5%, 3 5%, 10 5%>.<or: , 40%, billion 5%, million 5%, % 0%>5<or: 6 10%, 8 10%, 4 10%, 2 10%> billion<or: million 20%, times 15%, light 15%, AU 0%> light<or: miles 25%, kilometers 15%, years 10%, times 5%>-<or: years 45%, year 0%, years 0%, miles 0%>years away.<or: , 30%, from 10%, and 10%, in 5%>
+<or: The 10%, It 10%, This 5%, Its 5%>
+The<or: " 5%, It 5%, But 5%, In 0%> planet<or: moon 0%, discovery 0%, first 0%, solar 0%> is<or: 's 20%, orbits 5%, was 5%, has 5%> about<or: the 5%, also 5%, located 5%, a 5%> 1<or: 2 5%, 4 5%, 10 5%, 3 5%>.5<or: 6 5%, 4 5%, 8 5%, 7 5%> billion<or: million 10%, times 10%, - 5%, light 5%> light-years from<or: away 20%, in 10%, across 5%, distant 0%> Earth.<or: , 30%, and 20%,  0%, 's 0%>
+<or: It 10%, The 10%, <|endoftext|> 5%, Its 0%>
+The<or: It 10%, Its 5%, Earth 5%, This 0%> planet<or: largest 10%, moon 5%, sun 5%, Earth 5%> is<or: has 10%, orbits 10%, 's 5%, was 5%> about 1<or: 2 5%, 3 5%, 4 5%, 5 0%>.5 billion light-years from Earth.
+
+The<or: It 5%, Earth 5%, This 0%, Its 0%> planet<or: moon 5%, largest 0%, sun 0%, Earth 0%> is about 1.5 billion light-years from Earth.
+
+
+
+========================================================================
+
+PROMPT: She painted the entire room a bright shade of
+[43 annotated steps of 60]
+She painted the entire room a bright shade of red<or: blue 15%, pink 10%, green 5%, purple 5%>,<or: . 25%, and 15%, with 5%, to 5%> and<or: but 5%, which 5%, with 5%, then 5%> the<or: then 5%, she 5%, it 5%, I 0%> walls<or: room 5%, rest 0%, ceiling 0%, only 0%> were<or: looked 5%, and 5%, had 5%, , 0%> covered<or: painted 10%, filled 5%, decorated 5%, lined 5%> with<or: in 40%, by 5%, , 0%, entirely 0%> a<or: the 0%, bright 0%, white 0%, black 0%> layer<or: bright 5%, thick 0%, white 0%, large 0%> of white<or: black 5%, red 5%, blue 0%, paint 0%>.<or: paint 10%, , 10%, and 5%, dust 0%>
+<or: The 10%, She 5%, It 5%, He 5%>
+"<or: The 10%, I 5%, She 0%, He 0%>I<or: You 5%, It 5%, What 5%, This 5%>'m<or: think 5%, don 5%, 'll 5%, 've 5%> sorry<or: not 10%, going 5%, so 5%, sure 5%>,<or: . 10%, ," 5%, ." 5%, about 5%> but<or: I 10%, it 5%, you 0%, my 0%> I<or: you 10%, it 10%, this 5%, we 5%>'m<or: don 10%, can 10%, didn 5%, 've 5%> not<or: sorry 10%, really 5%, afraid 5%, so 5%> sure<or: going 10%, here 5%, a 5%, really 5%> if<or: what 20%, how 15%, I 10%, why 5%> you<or: I 20%, it 15%, this 5%, we 5%>'re<or: can 10%, want 5%, 'll 5%, 've 5%> going<or: ready 5%, really 5%, right 5%, okay 5%> to be<or: let 5%, come 5%, do 5%, get 5%> able<or: okay 5%, here 5%, happy 0%, alright 0%> to see<or: help 5%, do 5%, get 5%, stay 5%> me<or: it 15%, the 10%, my 10%, this 5%>."<or: , 5%, . 5%, in 5%, ," 5%>
+
+"<or: The 5%, I 5%, She 0%, A 0%>I<or: You 5%, What 5%, It 5%, No 5%>'m<or: don 5%, 'll 5%, can 5%, know 5%> sorry<or: not 15%, sure 10%, fine 5%, going 5%>,<or: . 15%, ." 10%, ?" 0%, … 0%> but<or: I 10%, you 5%, it 5%, my 0%> I<or: you 10%, it 5%, if 5%, … 5%>'m<or: can 10%, don 10%, 'll 5%, 've 5%> not<or: sorry 5%, going 5%, still 0%, afraid 0%> sure if you<or: I 20%, it 5%, we 5%, that 0%>'re going to be able to see me."<or: . 20%, , 5%, ," 5%, !" 0%>
+
+
+========================================================================
+
+PROMPT: The patient was rushed to the hospital and treated by a
+[28 annotated steps of 60]
+The patient was rushed to the hospital and treated by a local<or: specialist 10%, doctor 5%, team 5%, nurse 5%> doctor<or: hospital 10%, nurse 5%, health 5%, medical 5%>.<or: , 15%, who 10%, and 5%, for 5%>
+<or: The 15%, He 10%, A 5%, <|endoftext|> 0%>
+The<or: " 5%, He 5%, A 5%, Police 5%> patient<or: man 5%, woman 5%, incident 0%, hospital 0%> was<or: 's 15%, is 10%, , 5%, has 5%> taken<or: later 5%, treated 5%, released 5%, admitted 5%> to the<or: a 10%, hospital 10%, St 5%, an 0%> hospital<or: Royal 10%, University 5%, local 5%, Children 0%> for<or: with 15%, and 10%, in 10%, where 5%> treatment<or: further 20%, a 5%, evaluation 5%, an 5%> of<or: . 20%, and 15%, , 10%, but 5%> a<or: his 10%, minor 5%, an 5%, head 5%> minor<or: serious 5%, suspected 5%, head 5%, broken 5%> head<or: injury 10%, wound 10%, injuries 5%, condition 0%> injury.<or: , 15%, and 10%, but 5%, sustained 5%>
+
+The<or: A 10%, Police 5%, He 5%, " 0%> patient<or: incident 5%, man 5%, hospital 0%, victim 0%> was<or: is 10%, 's 10%, has 10%, had 5%> taken<or: treated 5%, released 5%, later 5%, discharged 5%> to the<or: hospital 10%, a 10%, St 0%, an 0%> hospital<or: Royal 10%, University 5%, local 0%, Hospital 0%> for<or: and 10%, with 10%, to 5%, in 5%> treatment<or: further 15%, a 5%, surgery 5%, evaluation 0%> of a minor head injury.
+
+The<or: A 10%, Police 10%, Topics 0%, He 0%> patient<or: hospital 0%, incident 0%, victim 0%, person 0%> was taken to the hospital for treatment of a minor head injury.
+
+The<or: A 10%, Police 5%, Anyone 0%, Topics 0%> patient was taken
+
+========================================================================
+
+PROMPT: The opposite of hot is
+[22 annotated steps of 60]
+The opposite of hot is cold<or: the 10%, a 5%, hot 5%, not 5%>.<or: , 30%, ; 5%, and 5%, : 5%>
+<or: The 10%, It 5%, In 5%, When 5%>
+The<or: " 5%, In 5%, When 0%, It 0%> cold<or: heat 0%, same 0%, temperature 0%, opposite 0%>est<or: is 10%, side 5%, of 5%, ness 5%> place<or: part 10%, temperature 5%, temperatures 5%, of 5%> on<or: to 25%, in 10%, is 10%, you 5%> Earth<or: earth 35%, the 5%, Mars 0%, this 0%> is the<or: in 10%, on 5%, Antarctica 5%, at 5%> Arctic<or: Antarctic 5%, ocean 5%, trop 5%, Pacific 5%> Ocean<or: . 20%, , 20%, Circle 15%, where 0%>.<or: , 40%, where 5%, and 0%, ( 0%>
+<or: It 15%, The 10%, In 5%, This 5%>
+The<or: It 5%, Cold 5%, In 5%, This 0%> cold<or: Arctic 5%, warm 5%, temperature 5%, hottest 5%>est place on Earth is the<or: Antarctica 10%, in 0%, on 0%, a 0%> Pacific<or: Antarctic 10%, Arctic 5%, Atlantic 5%, ocean 5%> Ocean.
+
+The<or: Cold 5%, And 0%, In 0%, It 0%> cold<or: warm 10%, hottest 5%, colder 0%, hot 0%>est place on Earth is the Indian<or: Atlantic 10%, Arctic 5%, Southern 5%, Gulf 5%> Ocean.
+
+The coldest place on Earth is the Pacific<or: Antarctic 10%, Atlantic 5%, Indian 5%, Southern 5%> Ocean.
+
+The coldest place
+
+========================================================================
+
+PROMPT: The chef sliced the vegetables with a sharp
+[26 annotated steps of 60]
+The chef sliced the vegetables with a sharp knife and<or: , 25%, . 15%, to 5%, until 5%> then<or: cut 5%, used 5%, added 5%, placed 5%> cooked<or: cut 5%, placed 5%, put 5%, used 5%> them in<or: on 10%, for 10%, with 10%, until 10%> a<or: the 30%, olive 5%, butter 5%, an 0%> large<or: skillet 5%, sauce 5%, pan 5%, small 5%> skillet<or: pot 10%, , 5%, sauce 5%, bowl 5%> over<or: . 20%, until 5%, on 5%, , 5%> medium<or: high 20%, low 15%, a 5%, the 0%> heat.<or: until 30%, for 10%, , 10%, over 0%>
+<or: The 10%, Add 10%, Cook 5%, Once 5%>
+The<or: Then 5%, Add 5%, When 5%, Once 5%> vegetables<or: meat 5%, chef 5%, sauce 5%, next 0%> were<or: then 5%, should 5%, , 0%, would 0%> then<or: cooked 10%, served 5%, covered 0%, cut 0%> cooked<or: covered 5%, served 5%, sliced 5%, tossed 0%> in<or: over 5%, and 5%, for 5%, on 5%> a<or: the 20%, an 5%, olive 0%, butter 0%> large<or: medium 5%, small 5%, sauce 5%, deep 5%> skillet<or: pot 10%, sauce 5%, bowl 5%, , 5%> over medium heat.<or: until 20%, for 15%, , 10%, and 5%>
+<or: The 15%, Cook 5%, Then 5%, When 0%>
+The<or: After 5%, Once 5%, Then 5%, When 5%> vegetables<or: sauce 5%, meat 5%, chefs 0%, chef 0%> were then cooked in a large skillet over medium heat.
+
+The<or: Cook 5%, After 0%, When 0%, Then 0%> vegetables<or: sauce 5%, veggies 5%, potatoes 0%, meat 0%> were then cooked in a large skillet over medium heat.
+
+
+
+========================================================================
+
+PROMPT: The chemical symbol Au stands for
+[25 annotated steps of 60]
+The chemical symbol Au stands for "<or: the 5%, Au 5%, a 5%, an 5%>ant<or: all 5%, A 5%, Al 5%, an 5%>ioxid<or: im 10%, ib 5%, imony 0%, igen 0%>ant"<or: ." 15%, ". 15%, ", 15%, ," 15%> and is<or: " 15%, the 5%, it 5%, Au 5%> used<or: a 10%, the 5%, often 5%, also 5%> to<or: in 20%, as 15%, by 10%, for 5%> describe<or: indicate 10%, identify 10%, distinguish 5%, denote 5%> the<or: a 15%, an 5%, antioxidants 0%, how 0%> antioxidant<or: ability 5%, chemical 5%, protective 5%, antioxidants 0%> properties<or: capacity 5%, activity 5%, effect 5%, action 0%> of the<or: food 5%, a 5%, various 5%, foods 5%> food<or: antioxidant 5%, chemical 5%, plant 5%, compounds 0%>.<or: , 5%, and 5%, or 5%, ( 5%>
+<or: The 10%, It 10%, Au 5%, In 5%>
+The<or: " 5%, A 5%, In 5%, It 0%> chemical<or: name 0%, researchers 0%, study 0%, word 0%> symbol<or: is 10%, name 5%, also 0%, symbols 0%> Au<or: is 5%, Cu 0%, " 0%, O 0%> stands for "antioxidant" and is used to describe the antioxidant properties of the food. The<or:  5%, Au 5%, " 5%, A 0%> chemical<or: name 0%, antioxidant 0%, food 0%, color 0%> symbol<or: name 10%, formula 0%, symbols 0%, compound 0%> Au<or: is 5%, Cu 0%, B 0%, N 0%> stands<or: is 25%, can 0%, has 0%, holds 0%> for "ant<or: anti 5%, an 0%, b 0%, super 0%>ioxidant" and is used to describe the antioxidant
+
+========================================================================
+
+PROMPT: Losing the championship filled the team with
+[40 annotated steps of 60]
+Losing the championship filled the team with a<or: confidence 5%, uncertainty 5%, some 5%, optimism 0%> lot<or: sense 10%, few 0%, number 0%, mix 0%> of pressure<or: questions 5%, uncertainty 5%, confidence 0%, frustration 0%>.<or: , 25%, and 15%, as 5%, to 5%>
+<or: The 10%, It 5%, They 5%, We 5%>
+"<or: The 5%, But 0%, In 0%, It 0%>We<or: I 15%, It 15%, The 5%, They 5%> had<or: were 10%, didn 5%, 're 5%, lost 5%> to<or: a 25%, some 5%, the 5%, no 0%> make<or: do 5%, get 5%, play 5%, be 5%> sure<or: a 20%, some 10%, the 10%, decisions 5%> we<or: that 20%, our 5%, the 5%, it 0%> were<or: had 10%, didn 5%, got 5%, kept 5%> ready<or: prepared 5%, playing 5%, able 5%, in 5%> for<or: to 35%, ," 5%, and 5%, , 5%> the<or: this 10%, that 5%, it 5%, what 5%> next<or: playoffs 10%, challenge 10%, season 5%, big 5%> step<or: challenge 10%, game 10%, round 5%, one 5%>,"<or: . 10%, , 10%, and 10%, in 5%> said<or: he 5%, says 0%, Johnson 0%, K 0%> coach<or: K 0%, the 0%, D 0%, H 0%> Mike<or: John 0%, Mark 0%, Tom 0%, Kevin 0%> Kr<or: D 5%, Le 0%, Riley 0%, Mac 0%>zyzewski. "We<or: It 5%, I 5%, The 5%, That 5%> had<or: were 10%, knew 10%, didn 5%, needed 5%> to make<or: be 10%, get 5%, take 5%, do 5%> sure we were<or: had 15%, knew 5%, weren 5%, could 5%> ready<or: prepared 10%, in 5%, going 5%, able 0%> for<or: to 25%, . 5%, and 0%, , 0%> the<or: this 10%, that 10%, what 5%, our 5%> next<or: playoffs 5%, final 0%, championship 0%, second 0%> step.<or: ." 20%, , 10%, and 10%, in 5%> We<or:  10%, It 5%, That 5%, I 5%> had<or: were 10%, didn 5%, knew 5%, have 5%> to make<or: be 10%, get 5%, take 5%, do 5%> sure we were ready for the<or: this 5%, our 5%, what 5%, that 5%> next<or: playoffs 0%, final 0%, championship 0%, last 0%> step<or: game 0%, year 0%, chapter 0%, level 0%>.<or: ." 20%, and 5%, , 5%, in 5%> We<or:  15%, It 5%, And 5%, That 5%> had to make
+
+========================================================================
+
+PROMPT: Signing the document made the agreement legally
+[28 annotated steps of 60]
+Signing the document made the agreement legally binding.<or: , 20%, and 10%, on 10%, for 5%>
+<or: The 10%, It 5%, But 5%, However 5%>
+The<or: " 10%, In 5%, But 5%, It 0%> agreement<or: document 5%, court 0%, deal 0%, U 0%> was<or: also 10%, is 5%, , 5%, states 5%> signed<or: made 5%, approved 5%, also 5%, not 0%> by<or: on 15%, in 15%, at 5%, with 5%> the<or: all 5%, President 5%, a 0%, both 0%> two<or: President 0%, president 0%, three 0%, government 0%> countries<or: sides 10%, parties 5%, leaders 5%, presidents 5%> on<or: in 10%, ' 10%, , 5%, and 5%> June<or: March 5%, July 5%, May 5%, April 5%> 30<or: 15 5%, 1 5%, 23 5%, 20 5%>,<or: . 20%, and 10%, in 5%, at 0%> 2015<or: 2016 10%, 2017 5%, 2014 5%, and 5%>.<or: , 25%, and 10%, in 0%, at 0%>
+<or: The 15%, It 5%, <|endoftext|> 5%, In 0%>
+The<or: " 5%, In 5%, It 5%, A 0%> agreement<or: document 5%, two 0%, United 0%, US 0%> was<or: is 5%, states 5%, also 5%, will 5%> signed<or: ratified 5%, approved 5%, also 5%, made 0%> by the<or: President 5%, all 0%, China 0%, both 0%> two<or: United 5%, three 5%, countries 5%, governments 0%> countries on June 30, 2015.
+<or: Photo 10%, The 10%, <|endoftext|> 5%, ( 0%>
+The<or: In 5%, It 0%, A 0%, " 0%> agreement<or: document 5%, two 5%, Agreement 0%, deal 0%> was signed by the two countries on June 30, 2015.
+
+The<or: In 0%, A 0%, It 0%, Sign 0%> agreement<or: document 5%, two 0%, Agreement 0%, deal 0%> was signed by the two countries
+
+========================================================================
+
+PROMPT: The heavy rain caused the river to
+[30 annotated steps of 60]
+The heavy rain caused the river to flow<or: turn 5%, rise 5%, swell 5%, flood 5%> into<or: down 5%, , 5%, and 5%, in 5%> the<or: a 15%, Lake 5%, an 0%, its 0%> river<or: valley 5%, lake 5%, city 5%, bay 0%>bed<or: bank 10%, , 10%, and 5%, . 5%>,<or: and 20%, . 20%, s 5%, at 0%> and<or: causing 10%, which 5%, creating 5%, but 5%> the<or: it 5%, a 5%, as 0%, then 0%> river<or: water 5%, wind 0%, rain 0%, flood 0%> was<or: 's 5%, continued 5%, turned 5%, began 0%> so<or: covered 5%, filled 5%, then 0%, now 0%> heavy<or: wet 5%, swollen 5%, full 5%, thick 5%> that it<or: the 20%, there 5%, a 5%, no 0%> was<or: could 5%, had 5%, became 0%, caused 0%> almost<or: nearly 5%, difficult 5%, impossible 5%, not 0%> impossible<or: as 10%, imp 5%, a 5%, completely 5%> to swim<or: get 5%, keep 5%, move 5%, carry 5%>.<or: through 5%, , 5%, in 5%, without 5%>
+<or: The 20%, It 5%, In 0%, A 0%>
+The<or: " 10%, After 5%, When 5%, In 5%> river<or: water 5%, wind 0%, rain 0%, next 0%> was<or: continued 5%, had 5%, flowed 5%, then 0%> so<or: very 5%, filled 5%, also 0%, covered 0%> heavy that it<or: the 15%, there 5%, even 5%, a 0%> was<or: caused 5%, could 5%, had 5%, made 5%> almost impossible to swim.
+<or: The 20%, A 0%, It 0%, There 0%>
+The<or: " 10%, It 0%, After 0%, A 0%> river<or: heavy 10%, water 10%, rain 5%, wind 0%> was so heavy that it was almost impossible to swim.
+
+The<or: " 5%, There 0%, It 0%, A 0%> river<or: water 10%, heavy 5%, rain 0%, wind 0%> was so heavy that it was
+
+========================================================================
+

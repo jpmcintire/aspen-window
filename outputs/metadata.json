@@ -1,0 +1,26 @@
+{
+  "model": "gpt2",
+  "seed": 0,
+  "python": "3.11.15 (main, Mar  3 2026, 09:26:23) [GCC 13.3.0]",
+  "platform": "Linux-6.18.5-fc-v20-x86_64-with-glibc2.39",
+  "torch": "2.13.0+cpu",
+  "transformers": "5.15.1",
+  "numpy": "2.4.6",
+  "pandas": "3.0.5",
+  "matplotlib": "3.11.1",
+  "device": "cpu",
+  "decoding": "greedy argmax (no sampling)",
+  "top_k": 5,
+  "free_run_steps": 40,
+  "locked_steps": 30,
+  "beta_control": 0.3,
+  "betas": [
+    0.0,
+    0.05,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5
+  ]
+}

@@ -1,0 +1,159 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2169.08it/s]
+[sanity] max |logit diff| input_ids vs inputs_embeds: 0.000e+00
+[free-run] 1/20: 'Although it resembled a wolf, genetic testing show'
+[free-run] 2/20: 'The animal slept beside the fireplace, barked at s'
+[free-run] 3/20: 'The creature had the build of a wolf but generatio'
+[free-run] 4/20: 'The capital of Australia is'
+[free-run] 5/20: 'After years of study she finally qualified as a'
+[free-run] 6/20: 'The traffic light turned from red to'
+[free-run] 7/20: 'To drive the nail into the board, he reached for h'
+[free-run] 8/20: 'Water is made of hydrogen and'
+[free-run] 9/20: 'When his flight was cancelled he felt a deep sense'
+[free-run] 10/20: 'The defendant was charged with a serious'
+[free-run] 11/20: 'Because the bridge was never maintained, it eventu'
+[free-run] 12/20: 'The largest planet in the solar system is'
+[free-run] 13/20: 'She painted the entire room a bright shade of'
+[free-run] 14/20: 'The patient was rushed to the hospital and treated'
+[free-run] 15/20: 'The opposite of hot is'
+[free-run] 16/20: 'The chef sliced the vegetables with a sharp'
+[free-run] 17/20: 'The chemical symbol Au stands for'
+[free-run] 18/20: 'Losing the championship filled the team with'
+[free-run] 19/20: 'Signing the document made the agreement legally'
+[free-run] 20/20: 'The heavy rain caused the river to'
+[locked] 1/20: 'Although it resembled a wolf, genetic testing show'
+[locked] 2/20: 'The animal slept beside the fireplace, barked at s'
+[locked] 3/20: 'The creature had the build of a wolf but generatio'
+[locked] 4/20: 'The capital of Australia is'
+[locked] 5/20: 'After years of study she finally qualified as a'
+[locked] 6/20: 'The traffic light turned from red to'
+[locked] 7/20: 'To drive the nail into the board, he reached for h'
+[locked] 8/20: 'Water is made of hydrogen and'
+[locked] 9/20: 'When his flight was cancelled he felt a deep sense'
+[locked] 10/20: 'The defendant was charged with a serious'
+[locked] 11/20: 'Because the bridge was never maintained, it eventu'
+[locked] 12/20: 'The largest planet in the solar system is'
+[locked] 13/20: 'She painted the entire room a bright shade of'
+[locked] 14/20: 'The patient was rushed to the hospital and treated'
+[locked] 15/20: 'The opposite of hot is'
+[locked] 16/20: 'The chef sliced the vegetables with a sharp'
+[locked] 17/20: 'The chemical symbol Au stands for'
+[locked] 18/20: 'Losing the championship filled the team with'
+[locked] 19/20: 'Signing the document made the agreement legally'
+[locked] 20/20: 'The heavy rain caused the river to'
+[scan] SKIPPED: Invalid HF URI 'hf://datasets/wikitext@b08601e04326c79dfdd32d625aee71d232d685c3/.huggingface.yaml'. Repository id must be 'namespace/name', got 'wikitext'.
+[done] outputs in outputs/
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2024.56it/s]
+Generating test split:   0%|          | 0/4358 [00:00<?, ? examples/s]Generating test split: 100%|██████████| 4358/4358 [00:00<00:00, 35844.60 examples/s]Generating test split: 100%|██████████| 4358/4358 [00:00<00:00, 35713.43 examples/s]
+Generating train split:   0%|          | 0/36718 [00:00<?, ? examples/s]Generating train split:  19%|█▉        | 7000/36718 [00:00<00:00, 49723.32 examples/s]Generating train split:  44%|████▎     | 16000/36718 [00:00<00:00, 61024.79 examples/s]Generating train split:  98%|█████████▊| 36000/36718 [00:00<00:00, 111457.60 examples/s]Generating train split: 100%|██████████| 36718/36718 [00:00<00:00, 96956.67 examples/s] 
+Generating validation split:   0%|          | 0/3760 [00:00<?, ? examples/s]Generating validation split: 100%|██████████| 3760/3760 [00:00<00:00, 172597.55 examples/s]
+[scan-locked] 1/40
+[scan-locked] 2/40
+[scan-locked] 3/40
+[scan-locked] 4/40
+[scan-locked] 5/40
+[scan-locked] 6/40
+[scan-locked] 7/40
+[scan-locked] 8/40
+[scan-locked] 9/40
+[scan-locked] 10/40
+[scan-locked] 11/40
+[scan-locked] 12/40
+[scan-locked] 13/40
+[scan-locked] 14/40
+[scan-locked] 15/40
+[scan-locked] 16/40
+[scan-locked] 17/40
+[scan-locked] 18/40
+[scan-locked] 19/40
+[scan-locked] 20/40
+[scan-locked] 21/40
+[scan-locked] 22/40
+[scan-locked] 23/40
+[scan-locked] 24/40
+[scan-locked] 25/40
+[scan-locked] 26/40
+[scan-locked] 27/40
+[scan-locked] 28/40
+[scan-locked] 29/40
+[scan-locked] 30/40
+[scan-locked] 31/40
+[scan-locked] 32/40
+[scan-locked] 33/40
+[scan-locked] 34/40
+[scan-locked] 35/40
+[scan-locked] 36/40
+[scan-locked] 37/40
+[scan-locked] 38/40
+[scan-locked] 39/40
+[scan-locked] 40/40
+[scan-done]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2261.18it/s]
+[locked] 1/20
+[locked] 2/20
+[locked] 3/20
+[locked] 4/20
+[locked] 5/20
+[locked] 6/20
+[locked] 7/20
+[locked] 8/20
+[locked] 9/20
+[locked] 10/20
+[locked] 11/20
+[locked] 12/20
+[locked] 13/20
+[locked] 14/20
+[locked] 15/20
+[locked] 16/20
+[locked] 17/20
+[locked] 18/20
+[locked] 19/20
+[locked] 20/20
+[locked-rerun-done]
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2374.29it/s]
+[z-track] 1/20
+[z-track] 2/20
+[z-track] 3/20
+[z-track] 4/20
+[z-track] 5/20
+[z-track] 6/20
+[z-track] 7/20
+[z-track] 8/20
+[z-track] 9/20
+[z-track] 10/20
+[z-track] 11/20
+[z-track] 12/20
+[z-track] 13/20
+[z-track] 14/20
+[z-track] 15/20
+[z-track] 16/20
+[z-track] 17/20
+[z-track] 18/20
+[z-track] 19/20
+[z-track] 20/20
+[z-track] wrote outputs/z_tracking.json
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:   8%|▊         | 12/148 [00:00<00:01, 113.31it/s]Loading weights:  20%|██        | 30/148 [00:00<00:00, 130.26it/s]Loading weights:  29%|██▉       | 43/148 [00:00<00:00, 110.64it/s]Loading weights:  55%|█████▍    | 81/148 [00:00<00:00, 200.12it/s]Loading weights:  88%|████████▊ | 130/148 [00:00<00:00, 281.22it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 248.80it/s]
+[monitor] 1/20
+[monitor] 2/20
+[monitor] 3/20
+[monitor] 4/20
+[monitor] 5/20
+[monitor] 6/20
+[monitor] 7/20
+[monitor] 8/20
+[monitor] 9/20
+[monitor] 10/20
+[monitor] 11/20
+[monitor] 12/20
+[monitor] 13/20
+[monitor] 14/20
+[monitor] 15/20
+[monitor] 16/20
+[monitor] 17/20
+[monitor] 18/20
+[monitor] 19/20
+[monitor] 20/20
+[monitor] wrote outputs/relevance_monitor.jsonl and outputs/monitored_transcripts.txt
