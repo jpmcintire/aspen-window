@@ -34,7 +34,8 @@ For each prompt:
    - `beta_b` / `beta_b_nm`: `(1-b) E[y] + b E[z]` (z = top-2), raw and norm-matched
    - `control_B_topk2_nm`: norm-matched top1/top2 mixture at beta = 0.3
    - `control_C_random_orth`: `E[y]` + random perturbation orthogonal to `E[y]`, with the same L2 distance from `E[y]` as control B (its norm therefore differs slightly from `||E[y]||`; logged per prompt below)
-   - `control_D_unrelated_nm`: norm-matched mixture of `E[y]` with an unrelated token at the same beta
+   - `control_D_unrelated_nm`: norm-matched mixture of `E[y]` with an unrelated token at the same beta (its L2 displacement from `E[y]` is generally larger than control B's, since norm-matching does not equalize displacement)
+   - `control_D_unrelated_dm`: displacement toward the unrelated token with exactly control B's L2 distance from `E[y]` — the distance-matched comparison for semantic vs unrelated direction
 4. **Free run** (Experiments 1–2): after the single injection, each branch returns to ordinary greedy hard-token decoding for 40 steps.
 5. **Locked-visible run** (Experiments 3–4): after injection, the hard branch's argmax token is fed identically to all branches for 30 steps, so visible text never diverges; per-step JS/KL/top-10-overlap between each branch's next-token distribution and the hard branch's are recorded.
 
@@ -845,6 +846,7 @@ Per-prompt control geometry (L2 distance of control B from `E[y]`, matched by co
 |---|---|---|---|---|---|---|---|
 | control_B_topk2_nm | 0.002206 | 0.0008231 | 0.0005107 | 0.000451 | 0.002387 | 0.0002237 | 0.0002036 |
 | control_C_random_orth | 0.0006546 | 0.0001187 | 0.0001035 | 0.000113 | 8.434e-05 | 6.937e-05 | 2.614e-05 |
+| control_D_unrelated_dm | 0.002463 | 0.001033 | 0.000924 | 0.0005628 | 0.0008263 | 0.0004206 | 0.0003722 |
 | control_D_unrelated_nm | 0.004804 | 0.001421 | 0.001342 | 0.001055 | 0.001205 | 0.000445 | 0.0006443 |
 | soft_normmatched | 0.08167 | 0.01309 | 0.00458 | 0.007639 | 0.01155 | 0.0008622 | 0.001561 |
 | soft_raw | 0.08928 | 0.01325 | 0.005492 | 0.00774 | 0.0112 | 0.001047 | 0.001737 |
