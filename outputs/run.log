@@ -129,3 +129,8 @@ Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF
 [z-track] 14/20
 [z-track] 15/20
 [z-track] 16/20
+[z-track] 17/20
+[z-track] 18/20
+[z-track] 19/20
+[z-track] 20/20
+[z-track] wrote outputs/z_tracking.json
