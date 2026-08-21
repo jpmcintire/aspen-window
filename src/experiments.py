@@ -217,7 +217,7 @@ def scan_corpus(model, tok, n_prefixes: int, prefix_len: int = 32,
     every scanned prefix is recorded with its stats."""
     from datasets import load_dataset
 
-    ds = load_dataset("wikitext", "wikitext-2-raw-v1", split="test")
+    ds = load_dataset("Salesforce/wikitext", "wikitext-2-raw-v1", split="test")
     scanned, qualifying = [], []
     for text in ds["text"]:
         if len(scanned) >= n_prefixes:

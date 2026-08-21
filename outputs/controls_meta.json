@@ -1,0 +1,102 @@
+[
+  {
+    "prompt": "Although it resembled a wolf, genetic testing showed that the domesticated animal was a",
+    "unrelated_token": " piano",
+    "control_distance": 1.2391300201416016
+  },
+  {
+    "prompt": "The animal slept beside the fireplace, barked at strangers, and followed its owner everywhere. It was a",
+    "unrelated_token": " piano",
+    "control_distance": 0.9000267386436462
+  },
+  {
+    "prompt": "The creature had the build of a wolf but generations of domestication had made it a",
+    "unrelated_token": " piano",
+    "control_distance": 1.0628576278686523
+  },
+  {
+    "prompt": "The capital of Australia is",
+    "unrelated_token": " piano",
+    "control_distance": 0.44173502922058105
+  },
+  {
+    "prompt": "After years of study she finally qualified as a",
+    "unrelated_token": " piano",
+    "control_distance": 0.7220752835273743
+  },
+  {
+    "prompt": "The traffic light turned from red to",
+    "unrelated_token": " piano",
+    "control_distance": 0.7812719345092773
+  },
+  {
+    "prompt": "To drive the nail into the board, he reached for his",
+    "unrelated_token": " piano",
+    "control_distance": 1.0006425380706787
+  },
+  {
+    "prompt": "Water is made of hydrogen and",
+    "unrelated_token": " piano",
+    "control_distance": 1.1323561668395996
+  },
+  {
+    "prompt": "When his flight was cancelled he felt a deep sense of",
+    "unrelated_token": " piano",
+    "control_distance": 1.272476077079773
+  },
+  {
+    "prompt": "The defendant was charged with a serious",
+    "unrelated_token": " piano",
+    "control_distance": 0.662728488445282
+  },
+  {
+    "prompt": "Because the bridge was never maintained, it eventually",
+    "unrelated_token": " piano",
+    "control_distance": 1.1532713174819946
+  },
+  {
+    "prompt": "The largest planet in the solar system is",
+    "unrelated_token": " piano",
+    "control_distance": 0.8251875638961792
+  },
+  {
+    "prompt": "She painted the entire room a bright shade of",
+    "unrelated_token": " piano",
+    "control_distance": 0.7798410058021545
+  },
+  {
+    "prompt": "The patient was rushed to the hospital and treated by a",
+    "unrelated_token": " piano",
+    "control_distance": 1.1707301139831543
+  },
+  {
+    "prompt": "The opposite of hot is",
+    "unrelated_token": " piano",
+    "control_distance": 1.00014328956604
+  },
+  {
+    "prompt": "The chef sliced the vegetables with a sharp",
+    "unrelated_token": " piano",
+    "control_distance": 1.2120089530944824
+  },
+  {
+    "prompt": "The chemical symbol Au stands for",
+    "unrelated_token": " piano",
+    "control_distance": 0.7697222828865051
+  },
+  {
+    "prompt": "Losing the championship filled the team with",
+    "unrelated_token": " piano",
+    "control_distance": 1.2495683431625366
+  },
+  {
+    "prompt": "Signing the document made the agreement legally",
+    "unrelated_token": " piano",
+    "control_distance": 1.1616572141647339
+  },
+  {
+    "prompt": "The heavy rain caused the river to",
+    "unrelated_token": " piano",
+    "control_distance": 1.151350498199463
+  }
+]
