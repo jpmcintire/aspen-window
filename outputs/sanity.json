@@ -1,0 +1,20 @@
+[
+  {
+    "prompt": "Although it resembled a wolf, genetic testing showed that the domesticated animal was a",
+    "visible_token": " wolf",
+    "max_abs_logit_diff": 0.0,
+    "argmax_equal": true
+  },
+  {
+    "prompt": "The animal slept beside the fireplace, barked at strangers, and followed its owner everywhere. It was a",
+    "visible_token": " strange",
+    "max_abs_logit_diff": 0.0,
+    "argmax_equal": true
+  },
+  {
+    "prompt": "The creature had the build of a wolf but generations of domestication had made it a",
+    "visible_token": " wolf",
+    "max_abs_logit_diff": 0.0,
+    "argmax_equal": true
+  }
+]
