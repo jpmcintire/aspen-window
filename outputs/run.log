@@ -2,3 +2,8 @@ Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF
 Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 2169.08it/s]
 [sanity] max |logit diff| input_ids vs inputs_embeds: 0.000e+00
 [free-run] 1/20: 'Although it resembled a wolf, genetic testing show'
+[free-run] 2/20: 'The animal slept beside the fireplace, barked at s'
+[free-run] 3/20: 'The creature had the build of a wolf but generatio'
+[free-run] 4/20: 'The capital of Australia is'
+[free-run] 5/20: 'After years of study she finally qualified as a'
+[free-run] 6/20: 'The traffic light turned from red to'
