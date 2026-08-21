@@ -75,7 +75,8 @@ python -m pytest tests/
    perturbation echoes.
 4. **Negative controls** — norm-matched top1/top2 mixture (B), random
    perturbation orthogonal to `E[y]` at the same L2 distance (C), and a
-   norm-matched mixture with an unrelated token (D), to separate
+   mixtures with an unrelated token (D) — both norm-matched and
+   distance-matched to control B's displacement — to separate
    semantic-mixture effects from generic perturbation effects.
 
 ## Layout

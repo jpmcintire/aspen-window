@@ -17,6 +17,7 @@ from .branch import (
     norm_match,
     random_orthogonal_perturbation,
     soft_topk_embed,
+    toward_token_at_distance,
     unrelated_mixture,
 )
 from .generate import (
@@ -110,6 +111,10 @@ def build_control_embeds(model, tok, bp, beta_control: float, seed: int) -> dict
     unrelated_id = pick_unrelated_token(tok, bp["top_ids"])
     ctrl_d_raw = unrelated_mixture(model, y, unrelated_id, beta_control)
     ctrl_d_nm = norm_match(ctrl_d_raw, hard)
+    # Distance-matched variant: same displacement direction (toward the
+    # unrelated token) but with exactly control B's L2 distance from E[y],
+    # so the D-vs-B comparison is not confounded by displacement size.
+    ctrl_d_dm = toward_token_at_distance(model, y, unrelated_id, distance)
 
     return {
         "embeds": {
@@ -119,6 +124,7 @@ def build_control_embeds(model, tok, bp, beta_control: float, seed: int) -> dict
             "control_B_topk2_nm": ctrl_b,
             "control_C_random_orth": ctrl_c,
             "control_D_unrelated_nm": ctrl_d_nm,
+            "control_D_unrelated_dm": ctrl_d_dm,
         },
         "unrelated_token": tok.decode([unrelated_id]),
         "control_distance": distance,

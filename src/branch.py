@@ -56,3 +56,19 @@ def random_orthogonal_perturbation(
 def unrelated_mixture(model, y_id: int, unrelated_id: int, beta: float) -> torch.Tensor:
     """CONTROL D: (1-beta) E[y] + beta E[unrelated]."""
     return beta_mixture(model, y_id, unrelated_id, beta)
+
+
+def toward_token_at_distance(model, y_id: int, other_id: int,
+                             distance: float) -> torch.Tensor:
+    """E[y] + delta, where delta points from E[y] toward E[other] with
+    ||delta|| == distance. Used for the distance-matched CONTROL D: a
+    beta-mixture's displacement direction is exactly (E[other] - E[y]),
+    so this preserves 'unrelated token direction' while matching the L2
+    displacement of CONTROL B exactly (norm-matching alone does not,
+    because the displacement then depends on the angle between E[y] and
+    E[other])."""
+    h = token_embed(model, y_id).view(-1)
+    o = token_embed(model, other_id).view(-1)
+    d = o - h
+    d = d / d.norm() * distance
+    return (h + d).view(1, 1, -1)

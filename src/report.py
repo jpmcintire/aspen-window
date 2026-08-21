@@ -124,7 +124,12 @@ def generate(outdir):
       "control B (its norm therefore differs slightly from `||E[y]||`; "
       "logged per prompt below)")
     w("   - `control_D_unrelated_nm`: norm-matched mixture of `E[y]` with "
-      "an unrelated token at the same beta")
+      "an unrelated token at the same beta (its L2 displacement from "
+      "`E[y]` is generally larger than control B's, since norm-matching "
+      "does not equalize displacement)")
+    w("   - `control_D_unrelated_dm`: displacement toward the unrelated "
+      "token with exactly control B's L2 distance from `E[y]` — the "
+      "distance-matched comparison for semantic vs unrelated direction")
     w("4. **Free run** (Experiments 1–2): after the single injection, each "
       "branch returns to ordinary greedy hard-token decoding for "
       f"{meta.get('free_run_steps', 40)} steps.")
