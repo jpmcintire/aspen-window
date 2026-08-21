@@ -1,4 +1,7 @@
 {
   "enabled": true,
-  "error": "HfUriError: Invalid HF URI 'hf://datasets/wikitext@b08601e04326c79dfdd32d625aee71d232d685c3/.huggingface.yaml'. Repository id must be 'namespace/name', got 'wikitext'."
+  "scanned": 300,
+  "qualifying": 197,
+  "locked_runs": 40,
+  "cap_note": "locked runs capped at first 40 qualifying prefixes in corpus order (no selection by results)"
 }

@@ -849,9 +849,35 @@ Per-prompt control geometry (L2 distance of control B from `E[y]`, matched by co
 | soft_normmatched | 0.08167 | 0.01309 | 0.00458 | 0.007639 | 0.01155 | 0.0008622 | 0.001561 |
 | soft_raw | 0.08928 | 0.01325 | 0.005492 | 0.00774 | 0.0112 | 0.001047 | 0.001737 |
 
+### Mean JS divergence vs hard by step (scan prompts)
+
+| condition | step 0 | step 1 | step 2 | step 5 | step 10 | step 20 | step 29 |
+|---|---|---|---|---|---|---|---|
+| control_C_random_orth | 0.0001229 | 7.27e-05 | 3.483e-05 | 2.027e-05 | 1.784e-05 | 8.487e-06 | 4.205e-06 |
+| soft_normmatched | 0.06136 | 0.03194 | 0.02394 | 0.003804 | 0.00214 | 0.0007845 | 0.001203 |
+
 ## 6. Automatic corpus scan (Phase B)
 
-Scan skipped due to error: `HfUriError: Invalid HF URI 'hf://datasets/wikitext@b08601e04326c79dfdd32d625aee71d232d685c3/.huggingface.yaml'. Repository id must be 'namespace/name', got 'wikitext'.`
+- prefixes scanned: 300
+- qualifying branch points (top1 < 0.85, top2 > 0.05, top1/top2 < 10): 197
+- locked runs executed: 40 (locked runs capped at first 40 qualifying prefixes in corpus order (no selection by results))
+
+Aggregate JS divergence vs hard across scan branch points:
+
+| condition | step | mean | median | max |
+|---|---|---|---|---|
+| control_C_random_orth | 0 | 0.0001229 | 3.983e-05 | 0.001392 |
+| control_C_random_orth | 1 | 7.27e-05 | 1.396e-05 | 0.001526 |
+| control_C_random_orth | 5 | 2.027e-05 | 8.554e-06 | 0.0001702 |
+| control_C_random_orth | 10 | 1.784e-05 | 3.715e-06 | 0.0003016 |
+| control_C_random_orth | 20 | 8.487e-06 | 1.821e-06 | 7.087e-05 |
+| control_C_random_orth | 29 | 4.205e-06 | 9.19e-07 | 3.12e-05 |
+| soft_normmatched | 0 | 0.06136 | 0.00253 | 0.59 |
+| soft_normmatched | 1 | 0.03194 | 0.0007817 | 0.5618 |
+| soft_normmatched | 5 | 0.003804 | 0.0001811 | 0.09539 |
+| soft_normmatched | 10 | 0.00214 | 0.0001123 | 0.03663 |
+| soft_normmatched | 20 | 0.0007845 | 2.284e-05 | 0.008396 |
+| soft_normmatched | 29 | 0.001203 | 1.928e-05 | 0.04337 |
 
 ## 7. Interpretation discipline
 
