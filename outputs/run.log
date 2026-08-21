@@ -134,3 +134,26 @@ Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF
 [z-track] 19/20
 [z-track] 20/20
 [z-track] wrote outputs/z_tracking.json
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights:   8%|▊         | 12/148 [00:00<00:01, 113.31it/s]Loading weights:  20%|██        | 30/148 [00:00<00:00, 130.26it/s]Loading weights:  29%|██▉       | 43/148 [00:00<00:00, 110.64it/s]Loading weights:  55%|█████▍    | 81/148 [00:00<00:00, 200.12it/s]Loading weights:  88%|████████▊ | 130/148 [00:00<00:00, 281.22it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 248.80it/s]
+[monitor] 1/20
+[monitor] 2/20
+[monitor] 3/20
+[monitor] 4/20
+[monitor] 5/20
+[monitor] 6/20
+[monitor] 7/20
+[monitor] 8/20
+[monitor] 9/20
+[monitor] 10/20
+[monitor] 11/20
+[monitor] 12/20
+[monitor] 13/20
+[monitor] 14/20
+[monitor] 15/20
+[monitor] 16/20
+[monitor] 17/20
+[monitor] 18/20
+[monitor] 19/20
+[monitor] 20/20
+[monitor] wrote outputs/relevance_monitor.jsonl and outputs/monitored_transcripts.txt

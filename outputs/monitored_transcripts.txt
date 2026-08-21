@@ -1,0 +1,372 @@
+PROMPT: Although it resembled a wolf, genetic testing showed that the domesticated animal was a
+
+[entropy filter, 5 annotations]
+Although it resembled a wolf, genetic testing showed that the domesticated animal was a wolf<or: hybrid 5%, very 5%>.
+
+The researchers<or: study 5%, wolf 5%> also found that the wolf's DNA<or: genetic 5%, genes 0%> was more closely related to the domesticated animal than to the wolf's.
+
+"The wolf's DNA is more closely related to the domesticated animal than to the wolf's," said lead<or: study 10%, Dr 5%> author Dr<or: and 0%, David 0%>. David H. Hirsch
+
+[consequence monitor, 5 annotations]
+Although it resembled a wolf, genetic testing showed that the domesticated animal was a wolf.
+
+The researchers also<or: say 5%, said 5%> found that the wolf's<or: was 15%, had 10%> DNA was more closely related to the domest<or: wolf 10%, human 5%>icated animal than to the wolf's.
+
+"<or: The 20%, In 5%>The<or: This 15%, We 10%> wolf's DNA is more closely related to the domesticated animal than to the wolf's," said lead author Dr. David H. Hirsch
+
+========================================================================
+
+PROMPT: The animal slept beside the fireplace, barked at strangers, and followed its owner everywhere. It was a
+
+[entropy filter, 5 annotations]
+The animal slept beside the fireplace, barked at strangers, and followed its owner everywhere. It was a strange<or: very 0%, good 0%> creature, but it was not a creature<or: bad 5%, monster 0%> that was afraid<or: dangerous 0%, frightened 0%> of humans. It was a creature that was afraid of humans.
+
+"I'm sorry, but<or: I 5%, my 5%> I'm not going to let you go," the animal<or: man 5%, dog 5%> said.
+
+"I'm sorry, but I'm not going to let
+
+[consequence monitor, 5 annotations]
+The animal slept beside the fireplace, barked at strangers, and followed its owner everywhere. It was a strange<or: very 0%, good 0%> creature, but it was not a creature<or: bad 5%, monster 0%> that was<or: could 10%, had 10%> afraid of humans. It was a creature that was afraid of humans.
+
+"<or: The 10%, It 5%>I'm sorry, but I'm not going to let you go," the animal said.
+
+"I'm sorry<or: not 30%, going 5%>, but I'm not going to let
+
+========================================================================
+
+PROMPT: The creature had the build of a wolf but generations of domestication had made it a
+
+[entropy filter, 5 annotations]
+The creature had the build of a wolf but generations of domestication had made it a wolf<or: beast 5%, more 5%>.
+
+"<or: The 10%, It 5%>I'm not sure what you're talking about," said<or: he 10%, she 10%> the<or: Mr 0%, a 0%> man<or: wolf 5%, creature 5%>. "I'm not sure what you're talking about."
+
+"I'm not sure what you're talking about," said the man. "I'm not sure what you're talking about."
+
+
+
+[consequence monitor, 5 annotations]
+The creature had the build of a wolf but generations of domestication had made it a wolf.
+
+"<or: The 10%, It 5%>I<or: It 5%, You 5%>'m not sure what you<or: to 10%, the 10%>'re talking about," said<or: he 10%, she 10%> the man. "I'm not sure what you're talking about."<or: . 30%, , 10%>
+
+"I'm not sure what you're talking about," said the man. "I'm not sure what you're talking about."
+
+
+
+========================================================================
+
+PROMPT: The capital of Australia is
+
+[entropy filter, 5 annotations]
+The capital of Australia is the<or: a 5%, home 5%> world<or: capital 5%, only 5%>'s largest producer of coal<or: food 0%, cannabis 0%>, and the country's largest coal-fired power station.
+
+The coal<or: Australian 5%, government 5%> industry is also the world's largest producer of natural gas, and the world's largest producer of coal.
+
+The coal<or: Australian 5%, country 5%> industry is also the world's largest producer of natural gas,
+
+[consequence monitor, 5 annotations]
+The capital of Australia is the world<or: capital 5%, only 5%>'s largest producer of coal, and the country's largest coal-<or: producer 15%, imp 10%>fired power station.
+
+The coal industry<or: - 20%, is 5%> is also the world<or: largest 20%, biggest 5%>'s largest producer of natural<or: oil 5%, iron 5%> gas, and the world's largest producer of coal.
+
+The coal industry is also the world's largest producer of natural gas,
+
+========================================================================
+
+PROMPT: After years of study she finally qualified as a
+
+[entropy filter, 5 annotations]
+After years of study she finally qualified as a doctor<or: physician 0%, nurse 0%> in 2012.
+
+"I was very<or: so 5%, really 5%> happy with my results<or: decision 5%, diagnosis 5%>," she said. "I was able to get a job<or: good 10%, diagnosis 5%> and I was able to get a job<or: good 5%, degree 5%>. I was able to get a job. I was able to get a job. I was able to get a job. I
+
+[consequence monitor, 5 annotations]
+After years of study she finally qualified as a doctor in 2012.
+
+"I was very happy<or: surprised 10%, excited 10%> with<or: to 15%, ," 10%> my results," she said. "I was able<or: very 10%, happy 5%> to get a<or: my 10%, the 5%> job<or: good 10%, diagnosis 5%> and I was able to get a job. I was able to get a job. I was able to get a job. I was able to get a job. I
+
+========================================================================
+
+PROMPT: The traffic light turned from red to
+
+[entropy filter, 5 annotations]
+The traffic light turned from red to green, and the car<or: driver 5%, lights 5%> was stopped<or: pulled 5%, parked 0%>.
+
+"I was just<or: like 5%, in 5%> trying to get out of the car," said<or: he 10%, she 5%> the<or: K 0%, one 0%> driver, who asked not to be identified. "I was just trying to get out of the car."
+
+The driver, who was not identified, said he was driving to
+
+[consequence monitor, 5 annotations]
+The traffic light turned from red to green,<or: and 20%, . 20%> and the car was stopped.
+
+"<or: The 15%, Police 5%>I was just trying to get out of the car,"<or: and 25%, , 15%> said the driver, who asked not to be identified. "<or:  45%, He 5%>I was just trying to get out of the car."<or: . 20%, and 15%>
+
+The driver, who was not identified, said he was driving to
+
+========================================================================
+
+PROMPT: To drive the nail into the board, he reached for his
+
+[entropy filter, 5 annotations]
+To drive the nail into the board, he reached for his gun<or: knife 5%, wallet 0%> and fired.
+
+"I was just<or: like 5%, in 5%> trying to get my hands on it," he said. "I was just trying to get my hands on it."
+
+The bullet<or: gun 5%, officer 5%> hit the back<or: board 5%, head 5%> of the head and grazed the back of the head, he<or: according 5%, the 5%> said.
+
+"I was
+
+[consequence monitor, 5 annotations]
+To drive the nail into the board, he reached for his gun and fired.
+
+"I was just trying to get my<or: the 10%, him 10%> hands on it<or: the 20%, my 10%>," he said. "I was just trying to get my hands on it."<or: . 20%, , 15%>
+
+The bullet hit the back<or: board 5%, head 5%> of the head and graz<or: hit 5%, exited 5%>ed the back of the head, he said.
+
+"I was
+
+========================================================================
+
+PROMPT: Water is made of hydrogen and
+
+[entropy filter, 5 annotations]
+Water is made of hydrogen and oxygen. The<or: It 10%,  10%> hydrogen<or: water 5%, oxygen 5%> is made<or: heated 5%, released 5%> from the<or: carbon 10%, hydrogen 5%> oxygen<or: hydrogen 10%, water 5%> and the oxygen is made from the hydrogen and the oxygen is made from the hydrogen and the oxygen is made from the hydrogen and the oxygen is made from the hydrogen and the oxygen is made from the hydrogen and the oxygen is made from the hydrogen and the oxygen
+
+[consequence monitor, 5 annotations]
+Water is made of hydrogen and oxygen. The hydrogen is made<or: heated 5%, released 5%> from the<or: carbon 10%, hydrogen 5%> oxygen<or: hydrogen 10%, water 5%> and the<or: oxygen 10%, hydrogen 10%> oxygen is made from the hydrogen and<or: . 35%, , 5%> the oxygen is made from the hydrogen and the oxygen is made from the hydrogen and the oxygen is made from the hydrogen and the oxygen is made from the hydrogen and the oxygen is made from the hydrogen and the oxygen
+
+========================================================================
+
+PROMPT: When his flight was cancelled he felt a deep sense of
+
+[entropy filter, 5 annotations]
+When his flight was cancelled he felt a deep sense of loss<or: relief 10%, guilt 5%>. He was so<or: in 0%, not 0%> close<or: lost 5%, proud 0%> to his wife that he could not even see her face. He was so<or: afraid 5%, in 0%> close<or: scared 5%, afraid 5%> to his wife that he could not even see her face. He was so close to his wife that he could not even see her face. He was so close to his wife that he could
+
+[consequence monitor, 5 annotations]
+When his flight was cancelled he felt a deep sense of loss. He<or:  20%, " 15%> was so close<or: lost 5%, proud 0%> to his wife that<or: and 20%, , 15%> he could not even<or: see 5%, help 5%> see her face<or: . 25%, eyes 5%>. He was so close to his wife that he could not even see her face. He was so close to his wife that he could not even see her face. He was so close to his wife that he could
+
+========================================================================
+
+PROMPT: The defendant was charged with a serious
+
+[entropy filter, 5 annotations]
+The defendant was charged with a serious felony, a<or: and 10%, which 5%> misdemeanor, and was<or: a 15%, is 5%> sentenced to a<or: three 5%, two 5%> term of imprisonment of not more than five years.
+
+The<or: In 5%, A 5%> defendant<or: case 5%, victim 5%> was also charged with a felony, a misdemeanor, and was sentenced to a term of imprisonment of not more than five years.
+
+The defendant was also charged with a felony,
+
+[consequence monitor, 5 annotations]
+The defendant was charged with a serious felony, a misdemeanor<or: felony 20%, Class 10%>, and was<or: a 15%, is 5%> sentenced to a<or: three 5%, two 5%> term of imprisonment<or: up 10%, life 5%> of not more than five years.
+
+The defendant was also<or: charged 10%, sentenced 5%> charged with a felony, a misdemeanor, and was sentenced to a term of imprisonment of not more than five years.
+
+The defendant was also charged with a felony,
+
+========================================================================
+
+PROMPT: Because the bridge was never maintained, it eventually
+
+[entropy filter, 5 annotations]
+Because the bridge was never maintained, it eventually became a major<or: part 0%, public 0%> tourist<or: attraction 5%, bottleneck 5%> attraction.
+
+The bridge<or: original 0%, first 0%> was built in 1885 and was completed in 1887. It was the first bridge in the United States to be built in the United<or: area 5%, span 5%> States.
+
+The bridge<or: original 0%, first 0%> was built in 1885 and was completed in 1887. It was the first bridge
+
+[consequence monitor, 5 annotations]
+Because the bridge was never maintained, it eventually became a major tourist<or: attraction 5%, bottleneck 5%> attraction.
+
+The bridge was built in 1885 and was completed in 1887. It<or:  20%, The 15%> was the<or: closed 5%, built 5%> first bridge in the United<or: world 20%, U 5%> States to be built in the United<or: area 5%, span 5%> States.
+
+The bridge was built in 1885 and was completed in 1887. It was the first bridge
+
+========================================================================
+
+PROMPT: The largest planet in the solar system is
+
+[entropy filter, 5 annotations]
+The largest planet in the solar system is about<or: the 5%, a 5%> 1.5 billion light-years away.
+
+The<or: " 5%, But 5%> planet<or: moon 0%, discovery 0%> is about<or: the 5%, also 5%> 1.5 billion light-years from Earth.
+
+The planet<or: largest 10%, moon 5%> is about 1.5 billion light-years from Earth.
+
+The planet is about 1.5 billion light-years from Earth.
+
+
+
+[consequence monitor, 5 annotations]
+The largest planet in the solar system is about<or: the 5%, a 5%> 1<or: 2 5%, 4 5%>.<or: , 40%, million 0%>5 billion light<or: miles 25%, kilometers 15%>-years away.
+<or: The 10%, It 10%>
+The planet is about 1.5 billion light-years from Earth.
+
+The planet is about 1.5 billion light-years from Earth.
+
+The planet is about 1.5 billion light-years from Earth.
+
+
+
+========================================================================
+
+PROMPT: She painted the entire room a bright shade of
+
+[entropy filter, 5 annotations]
+She painted the entire room a bright shade of red, and the walls<or: room 5%, rest 0%> were covered with a<or: the 5%, black 0%> thick<or: layer 5%, bright 0%> layer of black<or: red 5%, paint 5%>.
+
+"I'm sorry, but I'm not sure if you're ready to go back to the castle<or: room 0%, village 0%>."
+
+"I'm sorry, but I'm not sure if you're ready to go back to the castle."
+
+[consequence monitor, 5 annotations]
+She painted the entire room a bright shade of red, and the walls<or: room 5%, rest 0%> were covered with a thick layer of black.
+
+"I'm sorry, but I'm not sure<or: going 10%, here 5%> if<or: what 20%, how 15%> you're ready to go back<or: ." 10%, to 10%> to the castle."<or: . 15%, , 10%>
+
+"I'm sorry, but I'm not sure if you're ready to go back to the castle."
+
+========================================================================
+
+PROMPT: The patient was rushed to the hospital and treated by a
+
+[entropy filter, 5 annotations]
+The patient was rushed to the hospital and treated by a local hospital.
+
+The patient<or: man 5%, woman 5%> was taken to the hospital<or: Royal 10%, University 5%> for treatment of a minor<or: serious 5%, suspected 5%> injury.
+
+The patient<or: incident 5%, hospital 5%> was taken to the hospital<or: Royal 5%, local 5%> for treatment of a minor injury.
+
+The patient was taken to the hospital for treatment of a minor injury.
+
+The patient was taken to the hospital
+
+[consequence monitor, 5 annotations]
+The patient was rushed to the hospital and treated by a local<or: specialist 10%, doctor 5%> hospital<or: doctor 15%, health 5%>.
+
+The patient was taken to the hospital for<or: and 15%, with 10%> treatment of<or: . 20%, and 15%> a minor<or: serious 5%, suspected 5%> injury.
+
+The patient was taken to the hospital for treatment of a minor injury.
+
+The patient was taken to the hospital for treatment of a minor injury.
+
+The patient was taken to the hospital
+
+========================================================================
+
+PROMPT: The opposite of hot is
+
+[entropy filter, 5 annotations]
+The opposite of hot is cold.
+
+The<or: " 5%, In 5%> cold<or: heat 0%, temperature 0%>est part of the world<or: body 10%, cold 5%> is the<or: cold 5%, in 5%> cold<or: heat 5%, Arctic 5%>est part of the world.
+
+The coldest part of the world is the coldest part of the world.
+
+The coldest part of the world is the coldest part of the world.
+
+The cold
+
+[consequence monitor, 5 annotations]
+The opposite of hot is cold.
+<or: The 10%, It 5%>
+The<or: " 5%, In 5%> cold<or: heat 0%, temperature 0%>est part<or: place 5%, temperature 5%> of the world<or: body 10%, cold 5%> is the coldest part of the world.
+
+The coldest part of the world is the coldest part of the world.
+
+The coldest part of the world is the coldest part of the world.
+
+The cold
+
+========================================================================
+
+PROMPT: The chef sliced the vegetables with a sharp
+
+[entropy filter, 5 annotations]
+The chef sliced the vegetables with a sharp knife and then cooked<or: cut 5%, placed 5%> them in the oven for about 30 minutes.
+
+The vegetables<or: dish 5%, meat 5%> were then cooked in a large<or: sauce 5%, small 5%> pot and then cooked<or: drained 5%, the 5%> in a large saucepan for about 30 minutes.
+
+The vegetables<or: sauce 10%, chef 5%> were then cooked in a large saucepan for about 30 minutes.
+
+The vegetables were then
+
+[consequence monitor, 5 annotations]
+The chef sliced the vegetables with a sharp knife and then cooked them in the oven for about<or: 30 10%, 20 5%> 30 minutes.
+
+The vegetables<or: dish 5%, meat 5%> were then cooked in a large pot and then cooked in a large sauce<or: skillet 10%, pot 10%>pan for about 30 minutes.
+
+The vegetables<or: sauce 10%, chef 5%> were then cooked in a large sauce<or: pot 25%, skillet 5%>pan for about 30 minutes.
+
+The vegetables were then
+
+========================================================================
+
+PROMPT: The chemical symbol Au stands for
+
+[entropy filter, 5 annotations]
+The chemical symbol Au stands for "ant<or: all 5%, A 5%>ioxidant" and is used to describe the antioxidant properties of the food.
+
+The chemical<or: name 0%, researchers 0%> symbol Au stands for "antioxidant" and is used to describe the antioxidant properties of the food. The<or:  10%, Au 5%> chemical<or: name 0%, antioxidant 0%> symbol Au<or: is 5%, B 5%> stands for "antioxidant" and is used to describe the antioxidant
+
+[consequence monitor, 5 annotations]
+The chemical symbol Au stands for "ant<or: all 5%, A 5%>ioxidant"<or: ." 15%, ". 15%> and is used<or: a 10%, the 5%> to describe the antioxidant properties of the food<or: antioxidant 5%, plant 5%>.
+
+The chemical symbol Au stands for "antioxidant" and is used to describe the antioxidant properties of the food. The chemical symbol Au stands<or: is 25%, has 0%> for "antioxidant" and is used to describe the antioxidant
+
+========================================================================
+
+PROMPT: Losing the championship filled the team with
+
+[entropy filter, 5 annotations]
+Losing the championship filled the team with a<or: confidence 5%, uncertainty 5%> lot of pressure<or: questions 5%, uncertainty 5%>.
+
+"We had to make sure we were ready to go," said<or: he 5%, says 0%> coach<or: K 0%, the 0%> Mike<or: John 0%, Mark 0%> Krzyzewski. "We had to make sure we were ready to go. We had to make sure we were ready to go. We had to make sure we were ready to go
+
+[consequence monitor, 5 annotations]
+Losing the championship filled the team with a lot of pressure.
+<or: The 10%, It 5%>
+"We had to make<or: do 5%, play 5%> sure<or: a 20%, some 10%> we were ready to<or: for 35%, and 5%> go," said coach Mike Kr<or: D 5%, Ye 5%>zyzewski. "We had to make sure we were ready to go. We had to make sure we were ready to go. We had to make sure we were ready to go
+
+========================================================================
+
+PROMPT: Signing the document made the agreement legally
+
+[entropy filter, 5 annotations]
+Signing the document made the agreement legally binding.
+
+The agreement<or: document 5%, court 0%> was signed by the<or: all 5%, President 5%> two<or: President 0%, president 0%> parties<or: countries 10%, sides 10%> on June 30, 2015.
+
+The agreement<or: document 5%, documents 0%> was signed by the two parties on June 30, 2015.
+
+The agreement was signed by the two parties on June 30, 2015.
+
+The agreement was signed by the two parties
+
+[consequence monitor, 5 annotations]
+Signing the document made the agreement legally binding.
+
+The agreement was<or: also 10%, is 5%> signed by the two<or: President 0%, president 0%> parties<or: countries 10%, sides 10%> on<or: in 10%, , 10%> June 30, 2015.
+
+The agreement was<or: is 5%, states 5%> signed by the two parties on June 30, 2015.
+
+The agreement was signed by the two parties on June 30, 2015.
+
+The agreement was signed by the two parties
+
+========================================================================
+
+PROMPT: The heavy rain caused the river to
+
+[entropy filter, 5 annotations]
+The heavy rain caused the river to flow into the river<or: city 5%, lake 5%>bed, and the water<or: river 5%, wind 0%> was so<or: very 0%, then 0%> heavy that it was difficult to get out of the riverbed.
+
+The river<or: water 5%, rain 0%> was so heavy that it was difficult to get out of the riverbed. The water<or: river 5%, rain 5%> was so heavy that it was difficult to get out of the riverbed.
+
+[consequence monitor, 5 annotations]
+The heavy rain caused the river to flow<or: turn 5%, rise 5%> into the river<or: city 5%, lake 5%>bed, and the water was so heavy that it was difficult to get<or: swim 10%, keep 5%> out<or: water 10%, it 5%> of the river<or: water 10%, way 0%>bed.
+
+The river was so heavy that it was difficult to get out of the riverbed. The water was so heavy that it was difficult to get out of the riverbed.
+
+========================================================================
+
